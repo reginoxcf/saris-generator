@@ -1,0 +1,1255 @@
+{
+  "contestMetadata": {
+    "duration": 100,
+    "frozenTimeDuration": 100,
+    "name": "gfg contest #5",
+    "type": "ICPC"
+  },
+  "problems": [
+    { "index": "A" },
+    { "index": "B" },
+    { "index": "C" },
+    { "index": "D" },
+    { "index": "E" },
+    { "index": "F" },
+    { "index": "G" },
+    { "index": "H" },
+    { "index": "I" },
+    { "index": "J" }
+  ],
+  "contestants": [
+    { "id": 1, "name": "Tami Suyama" },
+    { "id": 2, "name": "Etsuo Ishizaki" },
+    { "id": 3, "name": "Hiroumi Igawa" },
+    { "id": 4, "name": "Shigeki Oba" },
+    { "id": 5, "name": "Yoichiro Tajiri" },
+    { "id": 6, "name": "Masakazu Ino" },
+    { "id": 7, "name": "Kachi Matsushita" },
+    { "id": 8, "name": "Yozo Hirata" },
+    { "id": 9, "name": "Tamae Katagiri" },
+    { "id": 10, "name": "Tomoyoshi Kishida" },
+    { "id": 11, "name": "Shigemitsu Itakura" },
+    { "id": 12, "name": "Katsuji Naka" },
+    { "id": 13, "name": "Ryozo Masuyama" },
+    { "id": 14, "name": "Kotaro Shiotani" },
+    { "id": 15, "name": "Koichi Murata" },
+    { "id": 16, "name": "Seizo Sakurai" },
+    { "id": 17, "name": "Aya Matsuyama" },
+    { "id": 18, "name": "Yasuo Nishishima" },
+    { "id": 19, "name": "Masa Fujisawa" },
+    { "id": 20, "name": "Mie Kume" },
+    { "id": 21, "name": "Genichi Misawa" },
+    { "id": 22, "name": "Masanori Shindo" },
+    { "id": 23, "name": "Iori Osaka" },
+    { "id": 24, "name": "Akira Obayashi" },
+    { "id": 25, "name": "Masumi Hyodo" },
+    { "id": 26, "name": "Tomoyuki Nakayama" },
+    { "id": 27, "name": "Man Nakabayashi" },
+    { "id": 28, "name": "Chihiro Ida" },
+    { "id": 29, "name": "Kaho Chinen" },
+    { "id": 30, "name": "Kazutaka Komori" },
+    { "id": 31, "name": "Tamaki Kaneda" },
+    { "id": 32, "name": "Chiyoko Takasaki" },
+    { "id": 33, "name": "Basshi Yuasa" },
+    { "id": 34, "name": "Shigenobu Takaoka" },
+    { "id": 35, "name": "Tatsumi Kameyama" },
+    { "id": 36, "name": "Yoko Shirakawa" },
+    { "id": 37, "name": "Toshiaki Takizawa" },
+    { "id": 38, "name": "Iwao Fujino" },
+    { "id": 39, "name": "Sumako Hiratsuka" },
+    { "id": 40, "name": "Masuo Minato" },
+    { "id": 41, "name": "Tadao Usui" },
+    { "id": 42, "name": "Toshiyuki Ota" },
+    { "id": 43, "name": "Yoshio Kanaya" },
+    { "id": 44, "name": "Teruhiko Nose" },
+    { "id": 45, "name": "Kazuaki Yoshimura" },
+    { "id": 46, "name": "Mori Kan" },
+    { "id": 47, "name": "Keijiro Akita" },
+    { "id": 48, "name": "Takeji Kageyama" },
+    { "id": 49, "name": "Yoshikazu Honda" },
+    { "id": 50, "name": "Shin Osaki" }
+  ],
+  "verdicts": {
+    "accepted": ["AC"],
+    "wrongAnswerWithPenalty": ["WA"],
+    "wrongAnswerWithoutPenalty": ["CE"]
+  },
+  "submissions": [
+    {
+      "timeSubmitted": 1,
+      "contestantName": "Kazutaka Komori",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 1,
+      "contestantName": "Masa Fujisawa",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 2,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 2,
+      "contestantName": "Tamae Katagiri",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 3,
+      "contestantName": "Mori Kan",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 3,
+      "contestantName": "Tami Suyama",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 4,
+      "contestantName": "Etsuo Ishizaki",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 5,
+      "contestantName": "Yasuo Nishishima",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 5,
+      "contestantName": "Ryozo Masuyama",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 5,
+      "contestantName": "Teruhiko Nose",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 6,
+      "contestantName": "Masa Fujisawa",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 6,
+      "contestantName": "Sumako Hiratsuka",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 6,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 7,
+      "contestantName": "Yoshikazu Honda",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 8,
+      "contestantName": "Etsuo Ishizaki",
+      "problemIndex": "E",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 8,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 8,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 9,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 10,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 10,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 11,
+      "contestantName": "Iori Osaka",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 11,
+      "contestantName": "Masakazu Ino",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 11,
+      "contestantName": "Mie Kume",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 12,
+      "contestantName": "Shigeki Oba",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 13,
+      "contestantName": "Iwao Fujino",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 13,
+      "contestantName": "Tomoyoshi Kishida",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 14,
+      "contestantName": "Seizo Sakurai",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 14,
+      "contestantName": "Masakazu Ino",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 15,
+      "contestantName": "Masa Fujisawa",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 16,
+      "contestantName": "Tatsumi Kameyama",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 16,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 17,
+      "contestantName": "Yoko Shirakawa",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 17,
+      "contestantName": "Hiroumi Igawa",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 17,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 18,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 19,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 19,
+      "contestantName": "Takeji Kageyama",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 19,
+      "contestantName": "Kotaro Shiotani",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 20,
+      "contestantName": "Iori Osaka",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 20,
+      "contestantName": "Masanori Shindo",
+      "problemIndex": "J",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 20,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 21,
+      "contestantName": "Ryozo Masuyama",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 21,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "E",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 21,
+      "contestantName": "Koichi Murata",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 22,
+      "contestantName": "Toshiyuki Ota",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 22,
+      "contestantName": "Mie Kume",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 23,
+      "contestantName": "Masakazu Ino",
+      "problemIndex": "H",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 23,
+      "contestantName": "Iwao Fujino",
+      "problemIndex": "C",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 24,
+      "contestantName": "Yoshikazu Honda",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 25,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 25,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 25,
+      "contestantName": "Kazuaki Yoshimura",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 26,
+      "contestantName": "Man Nakabayashi",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 26,
+      "contestantName": "Iwao Fujino",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 27,
+      "contestantName": "Kotaro Shiotani",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 27,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 28,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 29,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 30,
+      "contestantName": "Iwao Fujino",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 30,
+      "contestantName": "Keijiro Akita",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 30,
+      "contestantName": "Masanori Shindo",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 31,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 31,
+      "contestantName": "Chiyoko Takasaki",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 32,
+      "contestantName": "Seizo Sakurai",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 33,
+      "contestantName": "Tadao Usui",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 33,
+      "contestantName": "Kotaro Shiotani",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 34,
+      "contestantName": "Keijiro Akita",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 34,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 34,
+      "contestantName": "Man Nakabayashi",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 35,
+      "contestantName": "Iwao Fujino",
+      "problemIndex": "A",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 36,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 36,
+      "contestantName": "Katsuji Naka",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 36,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 37,
+      "contestantName": "Chiyoko Takasaki",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 37,
+      "contestantName": "Tadao Usui",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 38,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 39,
+      "contestantName": "Mori Kan",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 40,
+      "contestantName": "Seizo Sakurai",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 40,
+      "contestantName": "Toshiaki Takizawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 40,
+      "contestantName": "Katsuji Naka",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 41,
+      "contestantName": "Toshiyuki Ota",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 41,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 42,
+      "contestantName": "Shigeki Oba",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 43,
+      "contestantName": "Sumako Hiratsuka",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 44,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 44,
+      "contestantName": "Masuo Minato",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 44,
+      "contestantName": "Masanori Shindo",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 45,
+      "contestantName": "Iori Osaka",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 45,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 46,
+      "contestantName": "Tatsumi Kameyama",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 47,
+      "contestantName": "Shin Osaki",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 48,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 48,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 49,
+      "contestantName": "Sumako Hiratsuka",
+      "problemIndex": "E",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 50,
+      "contestantName": "Tami Suyama",
+      "problemIndex": "D",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 50,
+      "contestantName": "Tatsumi Kameyama",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 50,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 51,
+      "contestantName": "Kaho Chinen",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 52,
+      "contestantName": "Toshiaki Takizawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 52,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 53,
+      "contestantName": "Tamae Katagiri",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 54,
+      "contestantName": "Tamae Katagiri",
+      "problemIndex": "G",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 54,
+      "contestantName": "Kotaro Shiotani",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 54,
+      "contestantName": "Chiyoko Takasaki",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 55,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 55,
+      "contestantName": "Toshiaki Takizawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 56,
+      "contestantName": "Hiroumi Igawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 56,
+      "contestantName": "Yoko Shirakawa",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 56,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 57,
+      "contestantName": "Kaho Chinen",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 58,
+      "contestantName": "Tamae Katagiri",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 59,
+      "contestantName": "Hiroumi Igawa",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 60,
+      "contestantName": "Yoichiro Tajiri",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 60,
+      "contestantName": "Masuo Minato",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 61,
+      "contestantName": "Masumi Hyodo",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 61,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 62,
+      "contestantName": "Hiroumi Igawa",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 62,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 62,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 63,
+      "contestantName": "Yasuo Nishishima",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 63,
+      "contestantName": "Tadao Usui",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 63,
+      "contestantName": "Mie Kume",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 64,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 65,
+      "contestantName": "Toshiyuki Ota",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 66,
+      "contestantName": "Kaho Chinen",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 67,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "J",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 67,
+      "contestantName": "Yoichiro Tajiri",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 67,
+      "contestantName": "Masanori Shindo",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 68,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 68,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 69,
+      "contestantName": "Katsuji Naka",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 70,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 71,
+      "contestantName": "Shin Osaki",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 71,
+      "contestantName": "Etsuo Ishizaki",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 71,
+      "contestantName": "Takeji Kageyama",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 72,
+      "contestantName": "Mie Kume",
+      "problemIndex": "A",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 72,
+      "contestantName": "Yoshikazu Honda",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 72,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 73,
+      "contestantName": "Kazuaki Yoshimura",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 74,
+      "contestantName": "Tami Suyama",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 74,
+      "contestantName": "Mori Kan",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 75,
+      "contestantName": "Man Nakabayashi",
+      "problemIndex": "H",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 75,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "J",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 75,
+      "contestantName": "Shigemitsu Itakura",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 76,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "B",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 77,
+      "contestantName": "Masakazu Ino",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 78,
+      "contestantName": "Keijiro Akita",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 78,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 78,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 79,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 79,
+      "contestantName": "Kachi Matsushita",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 79,
+      "contestantName": "Tatsumi Kameyama",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 80,
+      "contestantName": "Masanori Shindo",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 80,
+      "contestantName": "Chihiro Ida",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 80,
+      "contestantName": "Basshi Yuasa",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 81,
+      "contestantName": "Iori Osaka",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 82,
+      "contestantName": "Ryozo Masuyama",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 82,
+      "contestantName": "Shigeki Oba",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 83,
+      "contestantName": "Keijiro Akita",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 83,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "J",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 83,
+      "contestantName": "Tadao Usui",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 84,
+      "contestantName": "Kazutaka Komori",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 85,
+      "contestantName": "Shigemitsu Itakura",
+      "problemIndex": "D",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 85,
+      "contestantName": "Tamaki Kaneda",
+      "problemIndex": "C",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 85,
+      "contestantName": "Seizo Sakurai",
+      "problemIndex": "G",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 86,
+      "contestantName": "Shigemitsu Itakura",
+      "problemIndex": "C",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 87,
+      "contestantName": "Tatsumi Kameyama",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 87,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "H",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 87,
+      "contestantName": "Toshiaki Takizawa",
+      "problemIndex": "H",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 88,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 88,
+      "contestantName": "Masumi Hyodo",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 88,
+      "contestantName": "Yoko Shirakawa",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 89,
+      "contestantName": "Masa Fujisawa",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 90,
+      "contestantName": "Katsuji Naka",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 91,
+      "contestantName": "Shigeki Oba",
+      "problemIndex": "H",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 92,
+      "contestantName": "Akira Obayashi",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 92,
+      "contestantName": "Etsuo Ishizaki",
+      "problemIndex": "A",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 92,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "C",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 93,
+      "contestantName": "Toshiaki Takizawa",
+      "problemIndex": "F",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 93,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "A",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 93,
+      "contestantName": "Yozo Hirata",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 94,
+      "contestantName": "Shigemitsu Itakura",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 94,
+      "contestantName": "Toshiyuki Ota",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 95,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 95,
+      "contestantName": "Yoshio Kanaya",
+      "problemIndex": "I",
+      "verdict": "AC"
+    },
+    {
+      "timeSubmitted": 95,
+      "contestantName": "Chiyoko Takasaki",
+      "problemIndex": "H",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 96,
+      "contestantName": "Man Nakabayashi",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 96,
+      "contestantName": "Tomoyuki Nakayama",
+      "problemIndex": "B",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 96,
+      "contestantName": "Masuo Minato",
+      "problemIndex": "I",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 97,
+      "contestantName": "Kaho Chinen",
+      "problemIndex": "J",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 97,
+      "contestantName": "Aya Matsuyama",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 97,
+      "contestantName": "Tamae Katagiri",
+      "problemIndex": "D",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 98,
+      "contestantName": "Katsuji Naka",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 99,
+      "contestantName": "Kaho Chinen",
+      "problemIndex": "F",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 100,
+      "contestantName": "Shigenobu Takaoka",
+      "problemIndex": "E",
+      "verdict": "WA"
+    },
+    {
+      "timeSubmitted": 100,
+      "contestantName": "Genichi Misawa",
+      "problemIndex": "J",
+      "verdict": "WA"
+    }
+  ]
+}
